@@ -12,7 +12,7 @@ A PDF report of the findings from the project is also included.
 
 ## Contributions 
 
-Pull requests are encouraged to help other learn about deep learning. For major changes, please open an issue first to discuss what you would like to change. This project is for educational purposes; please do not attempt to submit this project as your own. 
+Pull requests are encouraged to help others learn about deep learning. For major changes, please open an issue first to discuss what you would like to change. This project is for educational purposes only; do not attempt to submit this project as your own. 
 
 ## License 
 [MIT](https://choosealicense.com/licenses/mit/)
